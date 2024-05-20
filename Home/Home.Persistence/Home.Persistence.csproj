@@ -10,4 +10,10 @@
     <ProjectReference Include="..\Home.Core\Home.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interface\" />
+    <Folder Include="Implementation\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
 </Project>
